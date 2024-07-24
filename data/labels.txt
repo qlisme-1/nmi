@@ -1,0 +1,3 @@
+robot
+obstacle
+destination

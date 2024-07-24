@@ -1,0 +1,90 @@
+{
+  "version": "5.0.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "robot",
+      "points": [
+        [
+          148.83333333333366,
+          437.33333333333394
+        ],
+        [
+          223.83333333333366,
+          513.9999999999997
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "obstacle",
+      "points": [
+        [
+          261.3333333333335,
+          424.83333333333337
+        ],
+        [
+          363.0,
+          527.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "obstacle",
+      "points": [
+        [
+          512.1666666666666,
+          424.83333333333337
+        ],
+        [
+          613.8333333333334,
+          527.3333333333334
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "destination",
+      "points": [
+        [
+          512.1666666666667,
+          550.6666666666667
+        ],
+        [
+          613.0,
+          651.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "obstacle",
+      "points": [
+        [
+          135.5,
+          550.6666666666667
+        ],
+        [
+          238.0,
+          651.5
+        ]
+      ],
+      "group_id": null,
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "Image73.jpg",
+  "imageData": null,
+  "imageHeight": 788,
+  "imageWidth": 750
+}

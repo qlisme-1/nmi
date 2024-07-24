@@ -1,0 +1,9 @@
+#冒号后面必须加上空格
+train: ./data/train.txt
+val: ./data/val.txt
+
+
+#number of classes
+nc: 3
+#class names
+names: ['robot','obstacle','destination'] 
